@@ -8,8 +8,8 @@ def main():
 
     # Kreiranje proizvoda
     product1 = Product("Laptop", 1200, 5)
-    product2 = Product("Mis", 25, 20)
-    product3 = Product("Tastatura", 80, 10)
+    product2 = Product("Mouse", 25, 20)
+    product3 = Product("Keyboard", 80, 10)
 
     # Dodavanje proizvoda u ProductManager
     manager.add_product(product1)
